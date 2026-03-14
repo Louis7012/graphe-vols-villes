@@ -38,7 +38,7 @@ Le programme va :
 
 Image du réseau :
 
-![Réseau de vols](reseau_vols.png)
+reseau_vols.png
 
 ---
 
